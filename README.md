@@ -1,4 +1,4 @@
-# Rabiya's Aura
+# Rabiya Ashna
 
 Build a complete, production-quality personal portfolio website for me from scratch.
 
