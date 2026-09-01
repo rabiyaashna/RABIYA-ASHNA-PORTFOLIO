@@ -5,7 +5,7 @@ import { usePointerParallax, useTilt } from "@/hooks/use-portfolio-motion";
 const CHIPS = [
   { label: "AI / ML", cls: "-left-4 top-8 sm:-left-10", delay: "0s", depth: 34 },
   { label: "Developer", cls: "-right-3 top-24 sm:-right-12", delay: "1.2s", depth: 26 },
-  { label: "Creative", cls: "-left-2 bottom-24 sm:-left-12", delay: "2.1s", depth: 30 },
+  { label: "Creative", cls: "-left-6 bottom-40 sm:-left-14", delay: "2.1s", depth: 30 },
   { label: "Learning", cls: "-right-2 bottom-10 sm:-right-10", delay: "3s", depth: 22 },
 ];
 
